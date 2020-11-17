@@ -1,0 +1,6 @@
+Sesion 1:
+    Clonacion de Repositorio:
+        - git clone (url del Repositorio)
+    Enlazamiento de un Repositorio local a uno remoto:
+        - git init
+        - git remote add (url del Repositorio)
