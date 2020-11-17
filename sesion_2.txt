@@ -1,0 +1,17 @@
+Sesion 2:
+    Git Add:
+        - git add *
+        - git add (nombre del archivo con extension)
+    Git Commit:
+        - git commit -m "(nombre del commit)"
+    Git Push:
+        - git push origin (nombre de la rama)
+    
+    Git Status: (observar el estado del repositorio)
+        - git status
+    Git Log: (permite observar el log correspondiente a los commits en nuestro repositorio)
+        - git log
+    Git Restore: (permite restaurar los cambios al adicionar los archivos)
+        - git restore --staged (nombre del archivo con su extension)
+    Git Reset: (nos permite restaurar en los commits)
+        - git reset --hard (id del commit hacia el que se quiere navegar)
