@@ -2,7 +2,7 @@ Sesion 3:
     Git Branch: (nos permite crear una nueva rama)
         - git branch (nombre de nuestra rama)
             - branch main/master
-            - branch dev/development
+            - branch dev/development 
             - branch test/testing
             
             - branch login
@@ -11,7 +11,12 @@ Sesion 3:
         - git checkout (nombre de la rama)
 
     Git Push: (subir los cambios a una nueva rama)
-        - git push --set-upstream origin (nombre de la rama)
+        - git push --set-upstream origin (nombre de la rama)    
 
     Git Delete: (eliminar una rama)
-        - git branch -d (nombre de la rama eliminar)
+        - git branch -d (nombre de la rama eliminar)         (de forma local)
+        - git push --delete origin (nombre de la rama eliminar)
+    
+    Git Merge: (fusion entre ramas)
+        - git checkout (nombre de la rama donde quiero realizar la fusion de cambios)
+        - git merge (nombre de la rama de donde provienen los cambios)
