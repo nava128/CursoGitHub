@@ -9,3 +9,9 @@ Sesion 3:
             - branch chats
     Git Checkout: (nos permite navegar hacia una nueva rama)
         - git checkout (nombre de la rama)
+
+    Git Push: (subir los cambios a una nueva rama)
+        - git push --set-upstream origin (nombre de la rama)
+
+    Git Delete: (eliminar una rama)
+        - git branch -d (nombre de la rama eliminar)
