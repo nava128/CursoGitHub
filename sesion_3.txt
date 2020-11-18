@@ -1,5 +1,11 @@
 Sesion 3:
     Git Branch: (nos permite crear una nueva rama)
         - git branch (nombre de nuestra rama)
+            - branch main/master
+            - branch dev/development
+            - branch test/testing
+            
+            - branch login
+            - branch chats
     Git Checkout: (nos permite navegar hacia una nueva rama)
         - git checkout (nombre de la rama)
