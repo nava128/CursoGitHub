@@ -1,0 +1,7 @@
+Sesion 4:
+    Trabajo Colaborativo:
+        - Invitacion a colaboradores mediante el cliente web (github, gitlab, bitbucket)
+        - Este es un texto de prueba
+    
+    Git pull: (nos permite actualizar el repositorio local respecto del repositorio remoto)
+        - git pull
