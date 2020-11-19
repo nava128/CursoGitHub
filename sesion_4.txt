@@ -5,3 +5,13 @@ Sesion 4:
     
     Git pull: (nos permite actualizar el repositorio local respecto del repositorio remoto)
         - git pull
+    
+    Conflictos de Merge: (conflictos de fusion y actualizacion)
+        - Accept Current Changes (aceptar los cambios locales)
+        - Accept Incoming Changes (aceptar los cambios entrantes)
+        - Accept Both Changes (aceptar ambos cambios)
+
+        finalmente, se debe realizar la creacion del nuevo commit con la solucion del merge
+
+    Git pull request: (nos permite solicitar la actualizacion del codigo desde una tercera cuenta o un colaborador) 
+        Se realiza mediante la interfaz web
