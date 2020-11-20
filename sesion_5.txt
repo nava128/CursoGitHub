@@ -1,4 +1,6 @@
 Extensiones u programas de terceros:
         - Vs Code
         - Gitkraken
+            - Cliente de escritorio para github, gitlab, bitbucket y azure devops
         - Github Desktop
+            - Cliente de escritorio para github
