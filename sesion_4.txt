@@ -15,3 +15,8 @@ Sesion 4:
 
     Git pull request: (nos permite solicitar la actualizacion del codigo desde una tercera cuenta o un colaborador) 
         Se realiza mediante la interfaz web
+
+    Extensiones u programas de terceros:
+        - Vs Code
+        - Gitkraken
+        - Github Desktop

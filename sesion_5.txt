@@ -1,0 +1,4 @@
+Extensiones u programas de terceros:
+        - Vs Code
+        - Gitkraken
+        - Github Desktop
